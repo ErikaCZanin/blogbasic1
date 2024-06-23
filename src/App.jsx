@@ -11,7 +11,7 @@ function App() {
         <h2>Terra</h2>
         <p>O planeta Terra é um dos quatro planetas telúricos (de formação rochosa) do Sistema Solar, sendo os outro: Mercúrio, Vênus e Marte. É o único planeta do Sistema Solar em que existe água em estado líquido, característica que junto ao oxigênio e a temperatura média de 14 °C possibilitam a vida no planeta.</p>
         <h2>Marte</h2>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis iusto placeat velit unde inventore ea non dolorum ducimus amet suscipit dicta iure iste, ullam recusandae est eveniet tenetur laudantium assumenda!</p>
+        <p>Marte é o quarto planeta do Sistema Solar, ficando entre a Terra e Júpiter. A 227 milhões de km do Sol, é um planeta formado por superfície rochosa e atmosfera rica em CO2. Representação de Marte, quarto planeta a partir do Sol. Em função de sua coloração, é chamado também de Planeta Vermelho.</p>
         </div>
         </body>
   )
