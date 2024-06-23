@@ -1,4 +1,3 @@
-import livro2 from './assets/livro2.png'
 import './App.css'
 
 function App() {
